@@ -29,7 +29,7 @@ enableGitInfo      = true
   publishDate = ["publishDate", "date"]
 
 [permalinks]
-  journal = '/:year/:month/:title/'
+  journal = '/:year/:month/:day/'
 
 [markup.goldmark.renderer]
   unsafe = true
